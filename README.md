@@ -1,4 +1,4 @@
 # TitanShifting 1.18.2
  Based on AoT: a small mod that allows the player to transform into a Titan. Works in multiplayer as well!
  
- ![](https://imgur.com/a/RXKF9vQ)
+ ![transformation_example](https://user-images.githubusercontent.com/85131425/176997049-9112dddc-abe1-420a-abfd-3077a77dad35.gif)

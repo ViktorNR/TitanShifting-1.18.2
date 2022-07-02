@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "aotmod:hardened_block"
+    }
+  ],
+  "result": {
+    "item": "aotmod:hardened_ingot",
+    "count": 9
+  }
+}

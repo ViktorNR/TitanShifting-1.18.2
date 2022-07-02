@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "aotmod:block/hardened_block"}
+  }
+}

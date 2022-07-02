@@ -1,0 +1,6 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "aotmod:block/hardened_block"
+  }
+}

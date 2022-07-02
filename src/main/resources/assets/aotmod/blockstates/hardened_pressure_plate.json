@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "aotmod:block/hardened_pressure_plate" },
+    "powered=true": { "model": "aotmod:block/hardened_pressure_plate_down" }
+  }
+}

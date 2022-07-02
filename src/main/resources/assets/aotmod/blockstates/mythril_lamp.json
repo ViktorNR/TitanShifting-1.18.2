@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "clicked=false": { "model": "aotmod:block/mythril_lamp_off" },
+    "clicked=true": { "model": "aotmod:block/mythril_lamp_on" }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "aotmod:hardened_block",
+    "aotmod:hardened_ore"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "item.aotmod.hardened_ingot": "Hardened Ingot",
+  "item.aotmod.hardened_nugget": "Hardened Nugget",
+  "item.aotmod.hardened_fragment": "Hardened Fragment",
+  "item.aotmod.lilac_flower_bulb": "Lilac Flower Bulb",
+  "item.aotmod.grape": "Grape",
+  "item.aotmod.dowsing_rod": "Dowsing Rod",
+  "item.aotmod.data_tablet": "Data Tablet",
+  "item.aotmod.empty_syringe": "Syringe",
+  "item.aotmod.full_syringe": "Serum Syringe",
+
+
+  "item.aotmod.raccoon_spawn_egg": "Raccoon Spawn Egg",
+  "item.aotmod.armored_titan_spawn_egg": "Armored Titan Spawn Egg",
+  "item.aotmod.female_titan_spawn_egg": "Female Titan Spawn Egg",
+
+
+
+
+  "item.aotmod.hardened_pickaxe": "Hardened Pickaxe",
+  "item.aotmod.hardened_axe": "Hardened Axe",
+  "item.aotmod.hardened_shovel": "Hardened Shovel",
+  "item.aotmod.hardened_hoe": "Hardened Hoe",
+  "item.aotmod.hardened_sword": "Hardened Sword",
+
+
+
+
+  "block.aotmod.hardened_block": "Hardened Block",
+  "block.aotmod.hardened_ore": "Hardened Ore",
+  "block.aotmod.speedy_block": "Speedy Block",
+  "block.aotmod.mythril_lamp": "Mythril Lamp",
+
+
+
+
+  "block.aotmod.hardened_button": "Hardened Button",
+  "block.aotmod.hardened_pressure_plate": "Hardened Pressure Plate",
+  "block.aotmod.hardened_fence": "Hardened Fence",
+  "block.aotmod.hardened_wall": "Hardened Wall",
+  "block.aotmod.hardened_fence_gate": "Hardened Fence Gate",
+
+  "entity.aotmod.raccoon": "Raccoon",
+
+
+
+  "itemGroup.aotmod.aot": "AoT",
+
+
+
+
+
+
+
+  "item.aotmod.dowsing_rod.now_valuables": "No valuables found.",
+  "item.aotmod.dowsing_rod.tooltip.shift": "Right Click to find valuables.",
+  "item.aotmod.dowsing_rod.tooltip": "Press §eSHIFT§r for more Information",
+
+
+
+  "aotmod.dowsing_rod_found_ore": "Found Ore!",
+
+  "key.aotmod.transform_key": "Transform Input"
+}

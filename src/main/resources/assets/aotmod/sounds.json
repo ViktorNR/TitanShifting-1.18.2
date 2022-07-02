@@ -1,0 +1,15 @@
+{
+  "dowsing_rod_found_ore": {
+    "subtitle": "aotmod.dowsing_rod_found_ore",
+    "sounds": [
+      "aotmod:dowsing_rod_found_ore"
+    ]
+  },
+
+  "transformation_sound": {
+    "subtitle": "aotmod.transformation_sound",
+    "sounds": [
+      "aotmod:transformation_sound"
+    ]
+  }
+}
